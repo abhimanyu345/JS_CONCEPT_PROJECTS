@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#orange{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
