@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/040/265/148/non_2x/ai-generated-large-cloud-in-sky-at-sunset-free-photo.jpg);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148623068.jpg?semt=ais_hybrid);
+    font-size: larger;
+}
+fieldset{
+    background-image: url(https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148623068.jpg?semt=ais_hybrid);
+}
+
+button{
+    font-size: 15px;
+}
+
+span{
+    margin: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
